@@ -1,4 +1,6 @@
 # InceptezAssignment
+#### Linear Regression Assignment-Black Friday sales - 04-Jun-22(filename :Black_friday_sales.ipynb)
+#### Linear Regression Assignment-Bike share - 04-Jun-22(filename :bike_share.ipynb)
 #### Linear Regression Assignment-Linear Algebra - 04-Jun-22(filename :cab_price.ipynb)
 #### Linear Regression Assignment- Linear Algenra - 22-May-22(filename:Linear Algebra-Houseprice(22May22-assignment).pdf)
 #### ML test on 15-050-2022(ML Test-15May2022.ipynb)
