@@ -1,4 +1,5 @@
 # InceptezAssignment
+#### Book Price Prediction- random Forest and Linear Reg on 02-07-22 (Book price Prediction.ipynb)
 #### Logistic Regression Assignment- Titanic Survival - 18-Jun-22(Titanic-Survived.ipynb)
 #### Logistic Regression Assignment- Loan Prediction - 18-Jun-22(Loan Prediction-R1.ipynb)
 #### Linear Regression Assignment-Black Friday sales - 05-Jun-22(filename :Black_friday_sales.ipynb)
