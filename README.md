@@ -1,5 +1,6 @@
 # InceptezAssignment
 #### Fashion-Mnist- SVC model - 04-Aug-22(Fashion Mnist.ipynb)
+#### Loan Prediction-Decision Tree -04-Aug-2022(Loan Prediction-Decision Tree.ipynb)
 #### Titanic Survival- Decision Tree - 04-Aug-22 (Titanic-Survived-Decision Tree.ipynb)
 #### Book Price Prediction- random Forest and Linear Reg on 02-07-22 (Book price Prediction.ipynb)
 #### Logistic Regression Assignment- Titanic Survival - 18-Jun-22(Titanic-Survived.ipynb)
