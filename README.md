@@ -1,5 +1,6 @@
 # InceptezAssignment
 #### Age Detection- Deep Learning(restnet50)
+#### Dog vs Cat Prediction- Deep Learning(Transfer Learning)
 
 #### Cross-sell Prediction hackathon - 06-Aug-22(Cross-sell prediction-DT.ipynb)
 #### Fashion-Mnist- SVC model - 04-Aug-22(Fashion Mnist.ipynb)
