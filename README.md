@@ -1,7 +1,7 @@
 # InceptezAssignment
 #### Age Detection- Deep Learning(resnet50)
 #### Dog vs Cat Prediction- Deep Learning(Transfer Learning)
-#### Identify Fashion Mnist - Deep Learning(Basic CNN)
+#### Identify Fashion Mnist - Deep Learning(Basic CNN File name -Identify apparels.ipynb )
 
 #### Cross-sell Prediction hackathon - 06-Aug-22(Cross-sell prediction-DT.ipynb)
 #### Fashion-Mnist- SVC model - 04-Aug-22(Fashion Mnist.ipynb)
